@@ -62,8 +62,10 @@ li{
     line-height: 19px;
     text-align: center;
     color: var(--second-color);
-    border: 1px solid #626262;
+    border: 1px solid var(--second-color);
     background-color: white;
     width: 165px;
     height: 60px;
+    display: block;
+    margin: 0 auto;
 }
